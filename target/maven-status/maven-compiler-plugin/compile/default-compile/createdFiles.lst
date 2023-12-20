@@ -1,0 +1,6 @@
+com\example\ActividadM5\controler\Controlador.class
+com\example\ActividadM5\interfaceService\ITareaService.class
+com\example\ActividadM5\TodoListApplication.class
+com\example\ActividadM5\interfaces\ITarea.class
+com\example\ActividadM5\modelo\Tarea.class
+com\example\ActividadM5\service\TareaService.class
